@@ -1,4 +1,5 @@
 def main():
+    print("We are here \\/\\/\\/\\/")
     print("Hi!")
 
 
